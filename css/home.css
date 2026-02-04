@@ -1,1 +1,32 @@
+.container {
+  text-align: center;
+}
 
+h1 {
+  font-size: 22px;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+.buttons {
+  position: relative;
+}
+
+button {
+  padding: 10px 22px;
+  margin: 8px;
+  font-size: 16px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#yesBtn {
+  background: #ff5e78;
+  color: white;
+}
+
+#noBtn {
+  background: #e0e0e0;
+}
