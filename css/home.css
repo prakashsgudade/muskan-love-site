@@ -30,3 +30,17 @@ button {
 #noBtn {
   background: #e0e0e0;
 }
+.hidden {
+  display: none;
+}
+
+#nextBtn {
+  margin-top: 20px;
+  padding: 10px 24px;
+  font-size: 15px;
+  border-radius: 25px;
+  border: none;
+  background: #333;
+  color: white;
+  cursor: pointer;
+}
